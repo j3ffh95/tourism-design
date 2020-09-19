@@ -20,6 +20,19 @@ aside {
   flex-direction: column;
   justify-content: space-between;
   padding: 2rem;
-  width: 300px;
+  width: 200px;
   height: 100vh;
+}
+
+aside ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+aside a {
+  color: #fff;
+  display: inline-block;
+  font-size: 1.2rem;
+  text-decoration: none;
+  margin: 0.5rem;
 }
