@@ -20,7 +20,7 @@ aside {
   flex-direction: column;
   justify-content: space-between;
   padding: 2rem;
-  width: 200px;
+  width: 250px;
   height: 100vh;
 }
 
@@ -35,4 +35,27 @@ aside a {
   font-size: 1.2rem;
   text-decoration: none;
   margin: 0.5rem;
+}
+
+.orange-link {
+  background-color: #feab51;
+  color: #000;
+  display: block;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  color: #fff;
+  font-size: 2rem;
+  padding: 3rem;
+}
+
+main h1 {
+  margin: 0;
+}
+
+main h3 {
+  color: #feab51;
+  margin: 0;
 }
